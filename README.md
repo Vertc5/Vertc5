@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 🔭 I’m currently working on Python development projects personally, and for work i am doing web development with AWS, Wordpress, HTML, CSS and Java.
 - 🌱 I’m currently learning Python!
 - 💬 Ask me about any questions you may have related to front end/ sofware development
